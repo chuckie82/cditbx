@@ -1,2 +1,2 @@
 # cditbx
-Coherent Diffractive Imaging
+Coherent Diffractive Imaging Toolbox
